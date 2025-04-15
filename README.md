@@ -4,7 +4,7 @@ I'm Saber CHAABANI, a final year Civil Engineering student with a passion for pr
 
 ## About Me
 
-I'm currently pursuing my degree in Civil Engineering, but my love for technology and programming has led me to explore the world of software development. I enjoy working on projects that merge engineering principles with cutting-edge technologies.
+I'm currently pursuing my degree in Civil Engineering, but my intrest for technology and programming has led me to explore the world of software development. I enjoy working on projects that merge engineering principles with cutting-edge technologies.
 
 ## 💻 Technologies & Tools
 
